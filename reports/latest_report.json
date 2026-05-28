@@ -1,0 +1,61 @@
+{
+  "video_path": "D:\\batmittor analyzer\\data\\uploads\\analyze\\20260314_122049_918099_int2.mp4",
+  "predicted_skill_level": "intermediate",
+  "confidence": 0.9796604514122009,
+  "efficiency_score": 88.02,
+  "action_efficiency_breakdown": {
+    "footwork_speed": 78.21,
+    "court_coverage": 100.0,
+    "agility": 91.18,
+    "stance_control": 92.16,
+    "lunge_efficiency": 43.93,
+    "stroke_readiness": 100.0
+  },
+  "class_probabilities": {
+    "beginner": 0.006227225065231323,
+    "intermediate": 0.9796604514122009,
+    "pro": 0.014112371020019054
+  },
+  "movement_features": {
+    "left_ankle_speed_mean": 0.018486052751541138,
+    "left_ankle_speed_std": 0.02185879275202751,
+    "left_ankle_speed_max": 0.16640517115592957,
+    "left_ankle_speed_p90": 0.047520436346530914,
+    "right_ankle_speed_mean": 0.02446145750582218,
+    "right_ankle_speed_std": 0.024290556088089943,
+    "right_ankle_speed_max": 0.14126595854759216,
+    "right_ankle_speed_p90": 0.055110421031713486,
+    "hip_speed_mean": 0.015641381964087486,
+    "hip_speed_std": 0.012074122205376625,
+    "hip_speed_max": 0.07407712191343307,
+    "hip_speed_p90": 0.029630107805132866,
+    "left_wrist_speed_mean": 0.03432239964604378,
+    "left_wrist_speed_std": 0.04446465149521828,
+    "left_wrist_speed_max": 0.30130407214164734,
+    "left_wrist_speed_p90": 0.06791771948337555,
+    "right_wrist_speed_mean": 0.04043976217508316,
+    "right_wrist_speed_std": 0.04866333305835724,
+    "right_wrist_speed_max": 0.3390084505081177,
+    "right_wrist_speed_p90": 0.100574791431427,
+    "knee_angle_mean": 159.4708251953125,
+    "knee_angle_std": 19.061687469482422,
+    "knee_angle_max": 180.0,
+    "knee_angle_p90": 177.5224609375,
+    "stance_ratio_mean": 1.2891790866851807,
+    "stance_ratio_std": 0.6822118759155273,
+    "stance_ratio_max": 4.054896354675293,
+    "stance_ratio_p90": 2.1284866333007812,
+    "court_coverage_x": 0.583798885345459,
+    "court_coverage_y": 0.1987895667552948,
+    "lunge_rate": 0.10982658959537572,
+    "hip_acceleration_mean": 2.138044328603428e-05,
+    "hip_acceleration_std": 0.010275940410792828,
+    "hip_acceleration_max": 0.04748222231864929,
+    "hip_acceleration_p90": 0.011202298104763031,
+    "direction_change_rate": 0.5470588235294118
+  },
+  "recommendations": [
+    "Improve transition speed from rear-court to net with shadow drills.",
+    "Add multi-shuttle drills to improve endurance under fast rallies."
+  ]
+}

@@ -1,0 +1,30 @@
+# Python cache and build
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and runtime artifacts
+*.log
+
+# Local artifacts
+reports/tracked_preview/
+.streamlit/
+
+# Optional large generated files
+artifacts/*.joblib
+artifacts/*.pkl
+artifacts/*.bin
